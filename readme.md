@@ -1,0 +1,1 @@
+<h2>price range slider</h2>
